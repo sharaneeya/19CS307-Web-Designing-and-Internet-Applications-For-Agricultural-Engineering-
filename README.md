@@ -37,3 +37,7 @@ To Check IP Address, Domain Names, Speed, Connectivity of Internet.Installation 
 
 # Banking & Security settings
 
+
+# Result :
+Thus the commands were executed successfully and the fundamentals of Internet were explored.
+
